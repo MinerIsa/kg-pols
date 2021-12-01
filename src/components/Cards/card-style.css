@@ -1,0 +1,49 @@
+body {
+    background: #f5f5f7;
+}
+
+.card {
+    width: 25rem;
+    padding: .7rem; /* JUST TO LOOK COOL */
+    border: 1px solid #eee;  /* JUST TO LOOK COOL */
+    box-shadow: 2px 4px 12px rgb(0 0 0 / 8%);
+    transition: all .3s ease-in-out;
+    border-radius: 8px;
+    width: 100%;
+}
+
+.card:hover {
+    box-shadow: rgba(0, 0, 0, 0.22) 0px 19px 43px;
+    transform: translate3d(0px, -1px, 0px);
+}
+
+.card-body {
+    padding: 2rem 0 !important;
+}
+
+.card-text {
+    font-size: .9rem;
+    padding: 0.4rem 1.9rem;
+}
+
+
+
+img {
+    float: left;
+    width:  14rem;
+    height: 14rem;
+    object-fit: cover;
+}
+
+.overflow {
+    overflow: hidden;
+}
+
+.card-img-top{
+    transform: scale(1);
+    transition: 0.6s;
+}
+
+.card-img-top:hover {
+    transform:scale(1.3)
+}
