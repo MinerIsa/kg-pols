@@ -156,8 +156,7 @@ const Cards = () => {
                             title="React"
                             text="Learn to create large web applications that can change data without reloading the page."
                         />
-                    </div>
-                                    
+                    </div>           
                 </div> 
     )
 }

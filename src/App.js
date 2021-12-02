@@ -9,12 +9,16 @@ import AnnualReport from './pages/annual';
 import Teams from './pages/team';
 import Blogs from './pages/blogs';
 import SignUp from './pages/signup';
+import '/Users/abc/Desktop/WebDev/kg-pols/node_modules/bootstrap/dist/css/bootstrap.min.css';
+import Card from './components/Card';
+import Girl from './components/Cards/assets/girl.jpg';
 
 function App() {
   return (
     <Router>
       <Navbar />
       <Routes>
+        <Route path='/kg-pols' exact element={<Home />} />
         <Route path='/' exact element={<Home />} />
         <Route path='/about' element={<About />} />
         <Route path='/courses' element={<Courses />} />

@@ -9,6 +9,8 @@ import {
     NavBtnLink,
 } from './NavbarElements';
 import '/Users/abc/Desktop/WebDev/kg-pols/node_modules/bootstrap/dist/css/bootstrap.min.css'
+import Card from '../Card';
+import Girl from '../Cards/assets/girl.jpg';
 
 
 const Navbar = () => {
@@ -45,6 +47,8 @@ const Navbar = () => {
                     <NavBtnLink to='/signin'>Sign In</NavBtnLink>
                 </NavBtn>
             </Nav>
+            
+
         </div>
     }
 
