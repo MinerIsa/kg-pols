@@ -1,7 +1,6 @@
 {
-
-"homepage": "http://minerisa.github.io/Nomad",
-"name": "kg-pols",
+  "homepage": "http://minerisa.github.io/Nomad",
+  "name": "kg-pols",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -48,6 +47,3 @@
     "gh-pages": "^3.2.3"
   }
 }
-
-
-
