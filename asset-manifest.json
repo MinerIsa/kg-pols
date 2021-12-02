@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kg-pols/static/css/main.2c2bb411.chunk.css",
-    "main.js": "/kg-pols/static/js/main.9a9e3f5a.chunk.js",
-    "main.js.map": "/kg-pols/static/js/main.9a9e3f5a.chunk.js.map",
+    "main.js": "/kg-pols/static/js/main.7411c56d.chunk.js",
+    "main.js.map": "/kg-pols/static/js/main.7411c56d.chunk.js.map",
     "runtime-main.js": "/kg-pols/static/js/runtime-main.325b89be.js",
     "runtime-main.js.map": "/kg-pols/static/js/runtime-main.325b89be.js.map",
     "static/css/2.383c0125.chunk.css": "/kg-pols/static/css/2.383c0125.chunk.css",
@@ -25,6 +25,6 @@
     "static/css/2.383c0125.chunk.css",
     "static/js/2.11840d18.chunk.js",
     "static/css/main.2c2bb411.chunk.css",
-    "static/js/main.9a9e3f5a.chunk.js"
+    "static/js/main.7411c56d.chunk.js"
   ]
 }
