@@ -36,6 +36,13 @@ const Cards = () => {
                             title="React"
                             text="Learn to create large web applications that can change data without reloading the page."
                         />
+                    </div> 
+                    <div className="col-lg-3 col-md-6 col-sm-12 d-flex justify-content-center">
+                        <Card 
+                            imgsrc={University}
+                            title="React"
+                            text="Learn to create large web applications that can change data without reloading the page."
+                        />
                     </div>      
                 </div> 
     )
