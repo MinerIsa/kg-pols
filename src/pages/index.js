@@ -35,6 +35,23 @@ const Home = () => {
                         text="Learn to set the logic of your website to make it perform tasks."
                     />
                 </div>
+                <div className="col-lg-6">
+                    <Card
+                        imgsrc={Girl}
+                        title="JavaScript"
+                        text="Learn to set the logic of your website to make it perform tasks."
+                    />
+                </div>
+                <div className="col-lg-6">
+                    <Card
+                        imgsrc={Girl}
+                        title="JavaScript"
+                        text="Learn to set the logic of your website to make it perform tasks."
+                    />
+                </div>
+                
+
+                
             </div>
            
         </div>
