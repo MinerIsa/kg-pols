@@ -4,10 +4,9 @@
 
 
 /* Custom default button */
-.btn-secondary,
-.btn-secondary:hover,
-.btn-secondary:focus {
-  color: #333;
+.btn-outline-dark,
+.btn-outline-dark:hover,
+.btn-outline-dark:focus {
   text-shadow: none; /* Prevent inheritance from `body` */
 }
 
@@ -25,9 +24,11 @@ body {
 }
 
 .cover-container {
-  max-width: 42em;
+  max-width: 980px;
+  margin: 3rem 0;
 }
 
 main {
   margin: 30% auto;
 }
+
